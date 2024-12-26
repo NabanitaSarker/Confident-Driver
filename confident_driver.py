@@ -220,6 +220,7 @@ def reset():
     car_speed = 5
     projectile_speed = 10
     level_duration = 300
+    lane_speed = 3.5
 
 
 

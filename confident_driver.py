@@ -573,8 +573,8 @@ def spawn_car():
 
 def fire_projectile():
     global projectiles, max_shots
-    projectile_width = 10
-    projectile_height = 55
+    projectile_width = 20
+    projectile_height = 60
     max_shots -= 1
 
     projectiles.append({
